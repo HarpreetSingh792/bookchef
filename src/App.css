@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+
+body {
+  background: url('https://img.freepik.com/free-photo/flat-lay-different-ingredients-composition-with-copy-space_23-2148541885.jpg?w=826&t=st=1686040039~exp=1686040639~hmac=2233745294f3646a0da05accb00e6c41477cce28999d97cf9ef285166daeb347');
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(1.9px) ;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
