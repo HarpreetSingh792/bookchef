@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bookchef/static/css/main.b47adcaf.css",
-    "main.js": "/bookchef/static/js/main.17789531.js",
+    "main.js": "/bookchef/static/js/main.faf049a1.js",
     "static/media/Book Chef.png": "/bookchef/static/media/Book Chef.d3b522ff648a4b4586ea.png",
     "static/media/buffer.svg": "/bookchef/static/media/buffer.54dda845ff19204444bca7dccf605aef.svg",
     "index.html": "/bookchef/index.html",
     "main.b47adcaf.css.map": "/bookchef/static/css/main.b47adcaf.css.map",
-    "main.17789531.js.map": "/bookchef/static/js/main.17789531.js.map"
+    "main.faf049a1.js.map": "/bookchef/static/js/main.faf049a1.js.map"
   },
   "entrypoints": [
     "static/css/main.b47adcaf.css",
-    "static/js/main.17789531.js"
+    "static/js/main.faf049a1.js"
   ]
 }
